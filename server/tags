@@ -1,0 +1,353 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Database	public/Database.php	/^class Database$/;"	c
+K1_class_content	public/public.php	/^$K1_class_content=array($/;"	v
+K2_class_content	public/public.php	/^$K2_class_content=array($/;"	v
+PDOExtended	public/PDOExtended.php	/^class PDOExtended extends \\PDO$/;"	c
+__construct	public/PDOExtended.php	/^  public function __construct($dsn, $user = '', $pass = '', $options = null)$/;"	f
+ab_hour	public/get_ab_hour_through_classid_engname.php	/^			$ab_hour=$ab_hour.";".$row['ab_hour'];$/;"	v
+ab_hour	public/get_ab_hour_through_classid_engname.php	/^			$ab_hour=$row['ab_hour'];$/;"	v
+ab_hour	public/get_ab_hour_through_classid_engname.php	/^	$ab_hour="";$/;"	v
+ab_hour	public/public.php	/^			$ab_hour=$row['ab_hour'];$/;"	v
+access_times	checklogin.php	/^										$access_times = $row['access_times'] + 1;$/;"	v
+aclassid	public/public.php	/^			$aclassid=$row['classid'];$/;"	v
+age	server.php	/^        	$age = $_POST["age"];$/;"	v
+all	server.php	/^			$all = array();$/;"	v
+all	server.php	/^                        $all = array();$/;"	v
+anA	server.php	/^			$anA = $_POST["anA"];$/;"	v
+anB	server.php	/^			$anB = $_POST["anB"];$/;"	v
+anC	server.php	/^			$anC = $_POST["anC"];$/;"	v
+anD	server.php	/^			$anD = $_POST["anD"];$/;"	v
+answer	server.php	/^			$answer = $_POST["answer"];$/;"	v
+arr	chosepractice.php	/^								$arr=range(1,$p_count);$/;"	v
+array	getcurrentclasshour.php	/^									$array=explode("-",$record_hour);$/;"	v
+assis_teacher	server.php	/^        	$assis_teacher = $_POST["assis_teacher"];$/;"	v
+backup_db	public/db_opt.php	/^function backup_db() {$/;"	f
+beginTransaction	public/Database.php	/^  public static function beginTransaction()$/;"	f
+big_hour	getcurrentclasshour.php	/^											$big_hour=$fir_hour;	$/;"	v
+big_hour	getcurrentclasshour.php	/^									$big_hour=0;$/;"	v
+big_hour	public/get_next_class_hour.php	/^			$big_hour=$fir_hour;	$/;"	v
+big_hour	public/get_next_class_hour.php	/^	$big_hour=0;$/;"	v
+big_hour	public/public.php	/^			$big_hour=$fir_hour;	$/;"	v
+big_hour	public/public.php	/^	$big_hour=0;$/;"	v
+char	public/public.php	/^			$char == "S" || $/;"	v
+char	public/public.php	/^			$char == "k" || $/;"	v
+char	public/public.php	/^			$char == "s") {$/;"	v
+char	public/public.php	/^		$char=substr($classid, 0, 1);$/;"	v
+chief_teacher	server.php	/^        	$chief_teacher = $_POST["chief_teacher"];$/;"	v
+chname	server.php	/^        	$chname = $_POST["ch_name"];$/;"	v
+choice	server.php	/^			$choice = $_POST["choice"];$/;"	v
+chosed_arr	chosepractice.php	/^								$chosed_arr=explode("&", $in_chosed);$/;"	v
+cl1	public/public.php	/^			$cl1 = substr($classid,0,2);$/;"	v
+cl2	public/public.php	/^			$cl2 = substr($aclassid,0,2);$/;"	v
+classid	checklogin.php	/^								$classid=$_POST["Classid"];$/;"	v
+classid	getcurrentclasshour.php	/^								$classid=$_POST["http_classid"];$/;"	v
+classid	public/get_class_members.php	/^	$classid=$_GET["mem"];$/;"	v
+classid	public/get_next_class_hour.php	/^	$classid=$_GET["hour"];$/;"	v
+classid	server.php	/^			$classid = $_REQUEST["classid"];$/;"	v
+classid	server.php	/^        	$classid = $_POST["p_classid"];$/;"	v
+classid	setcookies.php	/^								$classid=$_POST["Classid"];$/;"	v
+classid	setcookiesb.php	/^								$classid="k1003";$/;"	v
+classid	setcookiesb.php	/^								$classid=$_POST["Classid"];$/;"	v
+cmd	public/db_opt.php	/^	$cmd="C:\/xampp\/mysql\/bin\/mysqldump.exe -uroot -pdaresay2014 b5270951>db_backup\/b5270951_".$time.".sql";$/;"	v
+cnt	server.php	/^			$cnt = count($running_class);$/;"	v
+cnt	server.php	/^                        $cnt = count($running_class);$/;"	v
+commit	public/Database.php	/^  public static function commit()$/;"	f
+conn	checklogin.php	/^								$conn=db_conn("daresay_db");$/;"	v
+conn	getcurrentclasshour.php	/^								$conn=db_conn("daresay_db");$/;"	v
+conn	public/db_opt.php	/^		$conn=mysql_connect($mysql_server_name,$mysql_username,$mysql_password,$mysql_database);$/;"	v
+conn	public/get_ab_hour_through_classid_engname.php	/^	$conn=db_conn("daresay_db");$/;"	v
+conn	public/get_class_members.php	/^	$conn=db_conn("daresay_db");$/;"	v
+conn	public/get_next_class_hour.php	/^	$conn=db_conn("daresay_db");$/;"	v
+conn	public/public.php	/^		$conn=db_conn("daresay_db");$/;"	v
+conn	public/public.php	/^	$conn=db_conn("daresay_db");$/;"	v
+conn	public/students_manage.php	/^$conn=db_conn("daresay_db");$/;"	v
+conn	setcookies.php	/^									$conn=db_conn("daresay_db");$/;"	v
+connect	public/Database.php	/^  public static function connect($dsn, $user = '',$/;"	f
+cur_hour	server.php	/^		        $cur_hour = get_current_hour($classid, True);	$/;"	v
+current_hour	getcurrentclasshour.php	/^									$current_hour=array("err"=>$err, "hour"=>intval($array[1]));$/;"	v
+current_hour_date	public/public.php	/^		$current_hour_date = get_current_hour($classid);$/;"	v
+date	server.php	/^        	$date=date("Y-m-d");$/;"	v
+date	server.php	/^        	$date=date('y-n-j',time());$/;"	v
+date1	test.php	/^	$date1="2017-02-10";$/;"	v
+date2	test.php	/^	$date2=date("y-m-d");$/;"	v
+datex	test.php	/^	$datex="2017-02-01";$/;"	v
+db_conn	public/db_opt.php	/^	function db_conn($mysql_database)$/;"	f
+db_selected	public/db_opt.php	/^		$db_selected = mysql_select_db($mysql_database,$conn);$/;"	v
+decode_chinese	server.php	/^function decode_chinese ($string) {$/;"	f
+delete	public/Database.php	/^  public static function delete($table, $keyValues)$/;"	f
+delete	public/PDOExtended.php	/^  public function delete($table, $keyValues)$/;"	f
+demo_date	server.php	/^        	$demo_date = $_POST["demo_date"];$/;"	v
+disconnect	public/Database.php	/^  public static function disconnect()$/;"	f
+each_class	server.php	/^		            $each_class = who_need_pay($running_class[$i]);$/;"	v
+each_makeup	server.php	/^		            $each_makeup = who_need_makeup_thisweek($running_class[$i]);$/;"	v
+encode	server.php	/^	$encode = mb_detect_encoding($string, array("ASCII","UTF-8","GB2312","GBK","BIG5")); $/;"	v
+end	server.php	/^			$end = $_REQUEST["end"];$/;"	v
+engname	checklogin.php	/^								$engname=$_POST["EngName"];$/;"	v
+engname	engnametoascii.php	/^								$engname=$_POST["EngName"];$/;"	v
+engname	public/public.php	/^			$engname=$row['engname'];$/;"	v
+engname	public/public.php	/^		$engname=$row['engname'];$/;"	v
+engname	server.php	/^        	$engname = $_POST["eng_name"];$/;"	v
+engname	server.php	/^        	$engname = $_POST["p_engname"];$/;"	v
+engname	setcookies.php	/^								$engname=$_POST["EngName"];$/;"	v
+engname	setcookiesb.php	/^								$engname="jason";$/;"	v
+engname	setcookiesb.php	/^								$engname=$_POST["EngName"];$/;"	v
+err	getcurrentclasshour.php	/^										$err=1;$/;"	v
+err	getcurrentclasshour.php	/^								$err=0;$/;"	v
+error	server.php	/^function error($data) {$/;"	f
+errorCode	public/Database.php	/^  public static function errorCode()$/;"	f
+errorInfo	public/Database.php	/^    $errorInfo = self::$pdo->errorInfo()[2];$/;"	v
+errorInfo	public/Database.php	/^  public static function errorInfo()$/;"	f
+errorMessage	public/Database.php	/^  public static function errorMessage()$/;"	f
+exec	public/Database.php	/^  public static function exec($sql)$/;"	f
+exec	public/PDOExtended.php	/^  public function exec($sql)$/;"	f
+exists	public/Database.php	/^  public static function exists($table, $keyValues)$/;"	f
+exists	public/PDOExtended.php	/^  public function exists($table, $keyValues)$/;"	f
+fetch	public/PDOExtended.php	/^      $fetch = $this->statement->fetch(parent::FETCH_NUM);$/;"	v
+fetchClass	public/PDOExtended.php	/^        $this->fetchClass = $class;$/;"	v
+fetchClass	public/PDOExtended.php	/^        $this->fetchClass = self::DEFAULT_FETCH_CLASS;$/;"	v
+fetchClass	public/PDOExtended.php	/^      $this->fetchClass = $class;$/;"	v
+fetchClass	public/PDOExtended.php	/^  protected $fetchClass = self::DEFAULT_FETCH_CLASS;$/;"	v
+fetchMode	public/PDOExtended.php	/^        $this->fetchMode = parent::FETCH_CLASS;$/;"	v
+fetchMode	public/PDOExtended.php	/^      $this->fetchMode = $fetchMode;$/;"	v
+fetchMode	public/PDOExtended.php	/^      $this->fetchMode = parent::FETCH_CLASS;$/;"	v
+fetchMode	public/PDOExtended.php	/^  protected $fetchMode = parent::FETCH_CLASS;$/;"	v
+filepath	server.php	/^				$filepath = 'photo\/'.$grade."-".$subject."-".$hour."-".$imgname;$/;"	v
+filepath	server.php	/^			$filepath = 'nofile';$/;"	v
+filepath	server.php	/^			$filepath = 'photo\/hss\/'.$grade."-".$subject."-".$name."-".$imgname;$/;"	v
+finish	public/public.php	/^			$finish=$row['finish'];$/;"	v
+found	chosepractice.php	/^											$found=1;$/;"	v
+found	chosepractice.php	/^									$found=0;$/;"	v
+found	chosepractice.php	/^								$found=0;$/;"	v
+from	server.php	/^			$from = $_REQUEST["from"];$/;"	v
+gender	server.php	/^        	$gender = $_POST["gender"];$/;"	v
+getAttribute	public/Database.php	/^  public static function getAttribute($attribute)$/;"	f
+getColumn	public/Database.php	/^  public static function getColumn($sql, $params = array())$/;"	f
+getColumn	public/PDOExtended.php	/^  public function getColumn($sql, $params = array())$/;"	f
+getDriverName	public/Database.php	/^  public static function getDriverName()$/;"	f
+getDriverName	public/PDOExtended.php	/^  public function getDriverName()$/;"	f
+getErrorMode	public/Database.php	/^  public static function getErrorMode()$/;"	f
+getErrorMode	public/PDOExtended.php	/^  public function getErrorMode()$/;"	f
+getFetchClass	public/Database.php	/^  public static function getFetchClass()$/;"	f
+getFetchClass	public/PDOExtended.php	/^  public function getFetchClass()$/;"	f
+getFetchMode	public/Database.php	/^  public static function getFetchMode()$/;"	f
+getFetchMode	public/PDOExtended.php	/^  public function getFetchMode()$/;"	f
+getPair	public/Database.php	/^  public static function getPair($sql, $params = array())$/;"	f
+getPair	public/PDOExtended.php	/^  public function getPair($sql, $params = array())$/;"	f
+getResults	public/Database.php	/^  public static function getResults($sql, $params = array(), $class = '')$/;"	f
+getResults	public/PDOExtended.php	/^  public function getResults($sql, $params = array(), $class = '')$/;"	f
+getRow	public/Database.php	/^  public static function getRow($sql, $params = array(), $class = '')$/;"	f
+getRow	public/PDOExtended.php	/^  public function getRow($sql, $params = array(), $class = '')$/;"	f
+getRowCount	public/Database.php	/^  public static function getRowCount()$/;"	f
+getRowCount	public/PDOExtended.php	/^  public function getRowCount()$/;"	f
+getValue	public/Database.php	/^  public static function getValue($sql, $params = array())$/;"	f
+getValue	public/PDOExtended.php	/^  public function getValue($sql, $params = array())$/;"	f
+get_current_hour	public/public.php	/^function get_current_hour($classid){$/;"	f
+got_num	chosepractice.php	/^									$got_num=$arr[$i];$/;"	v
+grade	server.php	/^				$grade="初中";$/;"	v
+grade	server.php	/^				$grade="小学";$/;"	v
+grade	server.php	/^				$grade="高中";$/;"	v
+grade	server.php	/^			$grade = $_POST["grade"];$/;"	v
+grade	server.php	/^			$grade = $_REQUEST["grade"];$/;"	v
+has_pic	server.php	/^			$has_pic = $_POST["has_pic"];$/;"	v
+hour	server.php	/^			$hour = $_POST["hour"];$/;"	v
+http	public/http_status.php	/^$http = array ( $/;"	v
+http_response_status	public/http_status.php	/^function http_response_status($num) { $/;"	f
+i	public/public.php	/^		$i=0;$/;"	v
+i	public/public.php	/^	$i=0;$/;"	v
+imgname	server.php	/^				$imgname = $_FILES['pic']['name'];$/;"	v
+imgname	server.php	/^			$imgname = $_FILES['pic']['name'];$/;"	v
+in10	server.php	/^			$in10=$_REQUEST["input10"];$/;"	v
+in11	server.php	/^			$in11=$_REQUEST["input11"];$/;"	v
+in12	server.php	/^			$in12=$_REQUEST["input12"];$/;"	v
+in13	server.php	/^			$in13=$_REQUEST["input13"];$/;"	v
+in14	server.php	/^			$in14=$_REQUEST["input14"];$/;"	v
+in15	server.php	/^			$in15=$_REQUEST["input15"];$/;"	v
+in3	server.php	/^			$in3=$_REQUEST["input3"];$/;"	v
+in4	server.php	/^			$in4=$_REQUEST["input4"];$/;"	v
+in5	server.php	/^			$in5=$_REQUEST["input5"];$/;"	v
+in6	server.php	/^			$in6=$_REQUEST["input6"];$/;"	v
+in7	server.php	/^			$in7=$_REQUEST["input7"];$/;"	v
+in8	server.php	/^			$in8=$_REQUEST["input8"];$/;"	v
+in9	server.php	/^			$in9=$_REQUEST["input9"];$/;"	v
+inTransaction	public/Database.php	/^  public static function inTransaction()$/;"	f
+in_chosed	chosepractice.php	/^								$in_chosed=$_POST["in_chosed"]; \/\/already played string such as 1&2&3...$/;"	v
+in_grade	chosepractice.php	/^								$in_grade=$_POST["in_grade"];$/;"	v
+in_playedcount	chosepractice.php	/^								$in_playedcount=$_POST["in_playedcount"];\/\/already played count$/;"	v
+in_unit	chosepractice.php	/^								$in_unit=$_POST["in_unit"];$/;"	v
+insert	public/Database.php	/^  public static function insert($table, $keyValues)$/;"	f
+insert	public/PDOExtended.php	/^  public function insert($table, $keyValues)$/;"	f
+isConnected	public/Database.php	/^  public static function isConnected()$/;"	f
+is_normal_class	public/public.php	/^function is_normal_class($classid) {$/;"	f
+j	server.php	/^			$j = 0;$/;"	v
+lastInsertID	public/Database.php	/^  public static function lastInsertID($name = '')$/;"	f
+lastday	getcurrentclasshour.php	/^								$lastday=$_POST["http_lastday"];$/;"	v
+mail_content	server.php	/^			$mail_content = "Title: ".$title."\\n\\n\\n\\nPhone: ".$phone."\\n\\n\\n\\nMessage: ".$message;$/;"	v
+mail_title	server.php	/^			$mail_title = "New parent message from [".$classid." ".$engname."]";$/;"	v
+makeup_tm	public/public.php	/^					$makeup_tm = $fir_tm;$/;"	v
+makeup_tm	public/public.php	/^					$makeup_tm = $sec_tm;$/;"	v
+mem	public/get_class_members.php	/^			$mem=$mem.";".$row['engname'];$/;"	v
+mem	public/get_class_members.php	/^			$mem=$row['engname'];$/;"	v
+mem	public/get_class_members.php	/^	$mem="";$/;"	v
+message	server.php	/^        	$message = $_POST["message_content"];$/;"	v
+mysql_database	public/db_opt.php	/^		$mysql_database='test';\/\/云主机上的数据库名字$/;"	v
+mysql_password	public/db_opt.php	/^		$mysql_password='root';$/;"	v
+mysql_server_name	public/db_opt.php	/^		$mysql_server_name='127.0.0.1:3306';$/;"	v
+mysql_username	public/db_opt.php	/^		$mysql_username='root';$/;"	v
+name	server.php	/^			$name = $_POST["name"];$/;"	v
+need_pay	public/public.php	/^			$need_pay=$row['hour_end'];$/;"	v
+need_pay	public/public.php	/^		$need_pay=$row['hour_end'];$/;"	v
+needpay_students	public/public.php	/^	$needpay_students=array();$/;"	v
+new_password	server.php	/^        	$new_password = $_POST["new_password"];$/;"	v
+num	public/public.php	/^		static $num=1;$/;"	v
+num	server.php	/^			$num = $_POST["num"];$/;"	v
+number	server.php	/^			$number=$_POST["number"];$/;"	v
+number	server.php	/^			$number=$_REQUEST["input1"];$/;"	v
+number	server.php	/^			$number=$_REQUEST["number"];$/;"	v
+out_chosed	chosepractice.php	/^									$out_chosed="all";$/;"	v
+out_chosed	chosepractice.php	/^									$out_chosed=$in_chosed."&".$got_num;$/;"	v
+out_name	chosepractice.php	/^								$out_name=$in_grade."_".$in_unit."_p".$got_num;$/;"	v
+out_playedcount	chosepractice.php	/^								$out_playedcount=$in_playedcount+1;$/;"	v
+p_count	chosepractice.php	/^								$p_count=$_POST["in_p_count"]; \/\/total practice count$/;"	v
+p_name	chosepractice.php	/^								$p_name=array("Name"=>$out_name,"Chosed"=>$out_chosed, "PlayedCnt"=>$out_playedcount);$/;"	v
+params	public/PDOExtended.php	/^      $params = array();$/;"	v
+params	public/PDOExtended.php	/^    $params = array();$/;"	v
+pass	public/Database.php	/^   $pass = '', $options = array(), $force = false)$/;"	v
+passwd	checklogin.php	/^								$passwd=$_POST["PassWord"];$/;"	v
+passwd	engnametoascii.php	/^								$passwd=$_POST["AdmPD"];$/;"	v
+pdo	public/Database.php	/^  private static $pdo = null;$/;"	v
+phone	server.php	/^			$phone=$_POST["phone"];$/;"	v
+phone	server.php	/^        	$phone = $_POST["parents_phone"];$/;"	v
+phone	server.php	/^        	$phone = $_POST["phone"];$/;"	v
+preFields	public/PDOExtended.php	/^    $preFields = '';$/;"	v
+preKeys	public/PDOExtended.php	/^      $preKeys = '';$/;"	v
+preKeys	public/PDOExtended.php	/^    $preKeys = '';$/;"	v
+preValues	public/PDOExtended.php	/^      $preValues = '';$/;"	v
+preValues	public/PDOExtended.php	/^    $preValues = '';$/;"	v
+prepare	public/Database.php	/^  public static function prepare($sql, $options = array())$/;"	f
+prepare	public/PDOExtended.php	/^  public function prepare($sql, $options = array())$/;"	f
+print_remind_by_classid	public/public.php	/^function print_remind_by_classid($classid) {$/;"	f
+query	public/Database.php	/^  public function query($sql, $params = array(), $class = '')$/;"	f
+query	public/PDOExtended.php	/^  public function query($sql, $params = array(), $class = '')$/;"	f
+question	server.php	/^			$question = $_POST["question"];$/;"	v
+quote	public/Database.php	/^  public static function quote($string, $paramType = \\Pdo::PARAM_STR)$/;"	f
+record_hour	getcurrentclasshour.php	/^											$record_hour=$tmp_hour;$/;"	v
+record_hour	public/get_next_class_hour.php	/^			$record_hour=$tmp_hour;$/;"	v
+record_hour	public/public.php	/^			$record_hour=$tmp_hour."&".$tmp_date;$/;"	v
+record_hour	public/public.php	/^	$record_hour=0;$/;"	v
+res	server.php	/^		$res=array("errmsg"=>$data);$/;"	v
+res	setcookies.php	/^									$res=array("classid"=>$classid, "engname"=>$engname);$/;"	v
+result	checklogin.php	/^										$result=mysql_query($sql,$conn);$/;"	v
+result	checklogin.php	/^									$result=mysql_query($sql,$conn);$/;"	v
+result	getcurrentclasshour.php	/^								$result=mysql_query($sql,$conn);$/;"	v
+result	public/Database.php	/^      $result = self::$pdo instanceof \\PDO;$/;"	v
+result	public/Database.php	/^    $result = false;$/;"	v
+result	public/PDOExtended.php	/^        $result = $fetch[0];$/;"	v
+result	public/PDOExtended.php	/^        $result = $this->statement;$/;"	v
+result	public/PDOExtended.php	/^      $result = $this->statement->fetch();$/;"	v
+result	public/PDOExtended.php	/^      $result = $this->statement->fetchAll();$/;"	v
+result	public/PDOExtended.php	/^      $result = $this->statement->fetchAll(parent::FETCH_COLUMN);$/;"	v
+result	public/PDOExtended.php	/^     $result = $results instanceof \\PDOStatement;$/;"	v
+result	public/PDOExtended.php	/^    $result = $this->getValue$/;"	v
+result	public/PDOExtended.php	/^    $result = $this->query$/;"	v
+result	public/PDOExtended.php	/^    $result = array();$/;"	v
+result	public/PDOExtended.php	/^    $result = false;$/;"	v
+result	public/PDOExtended.php	/^    $result = null;$/;"	v
+result	public/get_ab_hour_through_classid_engname.php	/^	$result=mysql_query($sql,$conn);$/;"	v
+result	public/get_class_members.php	/^	$result=mysql_query($sql,$conn);$/;"	v
+result	public/get_next_class_hour.php	/^	$result=mysql_query($sql,$conn);$/;"	v
+result	public/public.php	/^		$result=mysql_query($sql,$conn);$/;"	v
+result	public/public.php	/^	$result=mysql_query($sql,$conn);$/;"	v
+result	public/students_manage.php	/^$result=mysql_query($sql,$conn);$/;"	v
+result	setcookies.php	/^									$result=mysql_query($sql,$conn);$/;"	v
+results	public/PDOExtended.php	/^      $results = $this->statement->fetchAll(parent::FETCH_NUM);$/;"	v
+results	public/PDOExtended.php	/^     $results = $this->query$/;"	v
+ret	public/public.php	/^			$ret=1;$/;"	v
+ret	public/public.php	/^		$ret=0;$/;"	v
+ret_ascii	engnametoascii.php	/^								$ret_ascii=array("Name"=>$engname, "RetASCII"=>$tmp_ascii);$/;"	v
+return	server.php	/^		$return=json_encode($data);$/;"	v
+return	server.php	/^		$return=json_encode($res);$/;"	v
+return	server.php	/^	$return=json_encode($row);$/;"	v
+return	setcookies.php	/^										$return=json_encode($row);$/;"	v
+return	setcookies.php	/^									$return=json_encode($res);$/;"	v
+return_json	server.php	/^function return_json($data) {$/;"	f
+rollBack	public/Database.php	/^  public static function rollBack()$/;"	f
+root	server.php	/^			$root = "http:\/\/daresay.gz01.bdysite.com\/internal_0506\/server\/";$/;"	v
+row	checklogin.php	/^										$row = mysql_fetch_assoc($result);$/;"	v
+row	checklogin.php	/^									$row = mysql_fetch_assoc($result);$/;"	v
+row	public/public.php	/^		$row = mysql_fetch_assoc($result);$/;"	v
+row	setcookies.php	/^									$row = mysql_fetch_assoc($result);$/;"	v
+running_class	server.php	/^			$running_class = get_running_class();$/;"	v
+running_class	server.php	/^		        $running_class = get_running_class();	$/;"	v
+sale	server.php	/^        	$sale = $_POST["sale"];$/;"	v
+school	server.php	/^        	$school = $_POST["school"];$/;"	v
+school	server.php	/^        	$school=$_POST["school"];$/;"	v
+school	server.php	/^        	$school=$_REQUEST["input2"];$/;"	v
+school	server.php	/^        	$school=$_REQUEST["school"];$/;"	v
+setAttribute	public/Database.php	/^  public static function setAttribute($attribute, $value)$/;"	f
+setErrorMode	public/Database.php	/^  public static function setErrorMode($errorMode)$/;"	f
+setErrorMode	public/PDOExtended.php	/^  public function setErrorMode($errorMode)$/;"	f
+setFetchClass	public/Database.php	/^  public static function setFetchClass($class)$/;"	f
+setFetchClass	public/PDOExtended.php	/^  public function setFetchClass($class)$/;"	f
+setFetchMode	public/Database.php	/^  public static function setFetchMode($fetchMode)$/;"	f
+setFetchMode	public/PDOExtended.php	/^  public function setFetchMode($fetchMode)$/;"	f
+sql	checklogin.php	/^										$sql="UPDATE online_user SET access_times='$access_times' WHERE engname='$engname' AND classid='$classid' AND passwd='$passwd'";$/;"	v
+sql	checklogin.php	/^									$sql="SELECT * FROM online_user WHERE engname='$engname' and classid='$classid' and passwd='$passwd'";$/;"	v
+sql	checklogin.php	/^									$sql="SELECT * FROM teachers WHERE engname='$engname' and password='$passwd'";$/;"	v
+sql	getcurrentclasshour.php	/^								$sql="SELECT * FROM {$table_name} where classid='$classid'";$/;"	v
+sql	public/get_ab_hour_through_classid_engname.php	/^	$sql="SELECT * FROM {$table_name} WHERE classid='$classid' and engname='$engname'";$/;"	v
+sql	public/get_class_members.php	/^	$sql="SELECT * FROM {$table_name} WHERE classid='$classid'";$/;"	v
+sql	public/get_next_class_hour.php	/^	$sql="SELECT * FROM {$table_name} where classid='$classid'";$/;"	v
+sql	public/public.php	/^		$sql="SELECT * FROM absent";$/;"	v
+sql	public/public.php	/^		$sql="SELECT * FROM students where classid='$classid'";$/;"	v
+sql	public/public.php	/^		$sql="SELECT * FROM {$table_name} WHERE classid='$classid'";$/;"	v
+sql	public/public.php	/^	$sql="SELECT * FROM students where classid='$classid'";$/;"	v
+sql	public/public.php	/^	$sql="SELECT * FROM {$table_name} where classid='$classid'";$/;"	v
+sql	public/students_manage.php	/^$sql="SELECT * FROM students WHERE id='2';";$/;"	v
+sql	setcookies.php	/^									$sql="SELECT * FROM online_user WHERE engname='$engname' and classid='$classid'";$/;"	v
+sqlFields	public/PDOExtended.php	/^    $sqlFields = \\trim($preFields, ',');$/;"	v
+sqlKeys	public/PDOExtended.php	/^     $sqlKeys = $preKeys;$/;"	v
+sqlKeys	public/PDOExtended.php	/^    $sqlKeys = '';$/;"	v
+sqlValues	public/PDOExtended.php	/^     $sqlValues = \\trim($preValues, ',');$/;"	v
+sqlValues	public/PDOExtended.php	/^    $sqlValues = \\trim($preValues, ',');$/;"	v
+src	server.php	/^			$src = $_POST["src"];$/;"	v
+state	server.php	/^        	$state = $_POST["state"];$/;"	v
+statement	public/PDOExtended.php	/^    $this->statement = $this->prepare$/;"	v
+statement	public/PDOExtended.php	/^  protected $statement = null;$/;"	v
+str	public/get_ab_hour_through_classid_engname.php	/^	$str=$_GET["classid_engname"];$/;"	v
+str	public/public.php	/^					$str="[补课通知]请".$aclassid."班".$engname."于下".$makeup_tm."来".$classid."补第".$ab_hour."课时，收到请回复。如果当天不能来补课，请微信中通知我，谢谢您的配合！";$/;"	v
+subject	server.php	/^				$subject="53听力";$/;"	v
+subject	server.php	/^				$subject="语法";$/;"	v
+subject	server.php	/^				$subject="音标";$/;"	v
+subject	server.php	/^			$subject = $_POST["subject"];$/;"	v
+subject	server.php	/^			$subject = $_REQUEST["subject"];$/;"	v
+success	server.php	/^function success($data='') {$/;"	f
+table_name	getcurrentclasshour.php	/^								$table_name="class_info_record";$/;"	v
+table_name	public/get_ab_hour_through_classid_engname.php	/^	$table_name="absent";$/;"	v
+table_name	public/get_class_members.php	/^	$table_name="students";$/;"	v
+table_name	public/get_next_class_hour.php	/^	$table_name="class_info_record";$/;"	v
+table_name	public/public.php	/^		$table_name="class";$/;"	v
+table_name	public/public.php	/^	$table_name="class_info_record";$/;"	v
+test_encoding	server.php	/^function test_encoding ($string) {$/;"	f
+time	public/db_opt.php	/^	$time=date("Y-m-d");$/;"	v
+title	server.php	/^        	$title = $_POST["message_title"];$/;"	v
+tmp	server.php	/^				$tmp = $_FILES['pic']['tmp_name'];$/;"	v
+tmp	server.php	/^			$tmp = $_FILES['pic']['tmp_name'];$/;"	v
+tmp_ascii	engnametoascii.php	/^									$tmp_ascii=$tmp_ascii.ord($engname[$i]);$/;"	v
+tmp_ascii	engnametoascii.php	/^								$tmp_ascii="";$/;"	v
+tmp_ascii	engnametoascii.php	/^								$tmp_ascii=substr($tmp_ascii,1,4);$/;"	v
+tmp_date	public/public.php	/^		$tmp_date=$row['date'];$/;"	v
+tmp_hour	getcurrentclasshour.php	/^										$tmp_hour=$row['hour'];$/;"	v
+tmp_hour	public/get_next_class_hour.php	/^		$tmp_hour=$row['hour'];$/;"	v
+tmp_hour	public/public.php	/^		$tmp_hour=$row['hour'];$/;"	v
+today	getcurrentclasshour.php	/^									$today=date("y-m-d");$/;"	v
+type_v	server.php	/^			$type_v=$_POST["tval"];$/;"	v
+type_v	server.php	/^			$type_v=$_REQUEST["tval"];$/;"	v
+update	public/Database.php	/^  public static function update($table, $keyFields, $fieldValues)$/;"	f
+update	public/PDOExtended.php	/^  public function update($table, $keyFields, $fieldValues)$/;"	f
+way	server.php	/^        	$way = $_POST["way"];$/;"	v
+who_need_pay	public/public.php	/^function who_need_pay($classid){$/;"	f
